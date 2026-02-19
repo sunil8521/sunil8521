@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Sunil from India.<br><br>- 🔭 I'm working on backend-focused web applications and scalable SaaS systems.<br>- 📚 I'm currently learning system design, distributed systems f[...]  
+<p align="left">I'm Sunil from India.<br><br>- 🔭 I’m working on backend-focused web applications and scalable SaaS systems.<br>- 📚 I’m currently learning system design, distributed systems fundamentals, and AWS.<br>- ⚡ In my free time I solve DSA problems, experiment with infrastructure tools, and refine personal backend projects.</p>
 
 ###
 
