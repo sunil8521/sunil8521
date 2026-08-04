@@ -1,18 +1,23 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" /> 
+  <span style="color: gray; font-size: 16px; font-weight: normal; letter-spacing: 1px;">Hello</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+  I'm <b>Sunil</b>
+</h1>
 
-###
+<br />
 
-<h3 align="left">👩‍💻  About Me</h3>
+### About Me
 
-###
+<p align="left">
+  🔭 I’m a <strong>Full-Stack Developer</strong> currently working on <strong>full-stack web applications and AI applications</strong>.<br>
+  📚 I’m currently learning <strong>system design, DSA, Gen AI, and React Native</strong>.<br>
+  ⚡ Trying to <strong>improve myself every day</strong>.
+</p>
 
-<p align="left">I'm Sunil from India.<br><br>- 🔭 I’m working on backend-focused web applications and scalable SaaS systems.<br>- 📚 I’m currently learning system design, distributed systems fundamentals, and AWS.<br>- ⚡ In my free time I solve DSA problems, experiment with infrastructure tools, and refine personal backend projects.</p>
+<br />
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -39,14 +44,24 @@
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
 </div>
 
-###
+<br />
 
-<h3 align="left">🔥   My Stats</h3>
-
-###
+### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sunil8521&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=sunil8521&theme=dark&hide_border=true" alt="Streak Graph" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-###
+<br />
+<br />
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sunil-kumar-maharana-22a990223/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sunil8521@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-%23D14836.svg?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
