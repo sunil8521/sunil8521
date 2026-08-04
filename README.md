@@ -47,9 +47,9 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.shion.dev/api?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/> -->
-  <img src="https://streak-stats.demolab.com/?user=sunil8521&theme=dark&hide_border=true" alt="Streak Graph" height="195" />&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="195" />
+  <!-- <img src="https://github-readme-stats.shion.dev/api?username=sunil8521&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/> -->
+  <img src="https://streak-stats.demolab.com/?user=sunil8521&theme=nord&hide_border=false" alt="Streak Graph" height="195" />&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="195" />
 </div>
 
 <br />
