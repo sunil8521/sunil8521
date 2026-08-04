@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" /> 
-  <span style="color: gray; font-size: 16px; font-weight: normal; letter-spacing: 1px;">Hello</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>
-  I'm <b>Sunil</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"  /> 
+  <span style="color: gray; font-size: 20px; font-weight: normal; letter-spacing: 1px;">Hello!</span> I'm <b>Sunil</b>
 </h1>
 
 <br />
@@ -49,9 +47,9 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sunil8521&theme=dark&hide_border=true" alt="Streak Graph" /><br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.shion.dev/api?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/> -->
+  <img src="https://streak-stats.demolab.com/?user=sunil8521&theme=dark&hide_border=true" alt="Streak Graph" height="195" />&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="195" />
 </div>
 
 <br />
