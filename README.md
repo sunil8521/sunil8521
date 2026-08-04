@@ -48,8 +48,8 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.shion.dev/api?username=sunil8521&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/> -->
-  <img src="https://streak-stats.demolab.com?user=sunil8521&theme=nord" alt="Streak Graph" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=nord&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=sunil8521&theme=dark&hide_border=true&bg_color=0d1017" alt="Streak Graph" />&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunil8521&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1017" alt="Top Languages" />
 </div>
 
 <br />
